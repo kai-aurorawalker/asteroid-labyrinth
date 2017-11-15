@@ -1,19 +1,7 @@
-package;
+package ;
 
-
-import openfl.display.Sprite;
-
-
-class Main extends Sprite {
-	
-	
+class Main extends openfl.display.Sprite {
 	public function new () {
-		
 		super ();
-		
-		
-		
 	}
-	
-	
 }
