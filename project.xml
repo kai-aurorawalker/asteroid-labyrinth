@@ -3,6 +3,8 @@
 	
 	<meta title="" package="com.sample." version="1.0.0" company="Company Name" />
 	<app main="Main" path="Export" file="" />
+
+	<window width="400" height="400" />
 	
 	<source path="Source" />
 	
